@@ -10,6 +10,18 @@ Interactive ecommerce analytics dashboard built in Tableau using the Google Anal
 - Tableau Public
 - Google Analytics 4
 
+## Skills
+- SQL
+- BigQuery
+- Tableau Public
+- Google Analytics 4 (GA4)
+- Data Analysis
+- Data Visualization
+- Web Analytics
+- Funnel Analysis
+- KPI Reporting
+- Dashboard Development
+
 ## Dashboard Features
 - KPI Metrics (Sessions, Purchases, Revenue, Conversion Rate)
 - Ecommerce Conversion Funnel
