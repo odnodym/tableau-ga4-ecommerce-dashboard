@@ -4,6 +4,7 @@ Interactive ecommerce analytics dashboard built in Tableau using GA4 public data
 
 ## Overview
 Interactive ecommerce analytics dashboard built in Tableau using Google Analytics 4 public dataset from BigQuery.
+The dashboard was created using GA4 public ecommerce data from BigQuery and transformed with SQL before visualization in Tableau Public.
 
 ## Tools
 - SQL (BigQuery)
