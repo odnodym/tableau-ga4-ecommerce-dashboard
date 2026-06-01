@@ -2,15 +2,26 @@
 Interactive ecommerce analytics dashboard built in Tableau using GA4 public dataset from BigQuery and SQL transformations.
 # GA4 Ecommerce Analytics Dashboard
 
-## Overview
-Interactive ecommerce analytics dashboard built in Tableau using the Google Analytics 4 public ecommerce dataset from BigQuery. The data was transformed with SQL and visualized in Tableau Public to analyze user behavior, conversions, traffic sources, devices, landing pages, and geographic distribution.
+## Project Overview
+This project analyzes ecommerce performance and user behavior using SQL (BigQuery) and Tableau Public.
+
+## Key Metrics
+- Sessions
+- Purchases
+- Revenue
+- Conversion Rate
+- Ecommerce Conversion Funnel
+- Sessions by Device
+- Sessions by Country
+- Sessions by Landing Page
+- Sessions by Operating System
 
 ## Tools
 - SQL (BigQuery)
 - Tableau Public
 - Google Analytics 4
 
-## Skills
+## Skills Demonstrated
 - SQL
 - BigQuery
 - Tableau Public
@@ -22,16 +33,7 @@ Interactive ecommerce analytics dashboard built in Tableau using the Google Anal
 - KPI Reporting
 - Dashboard Development
 
-## Dashboard Features
-- KPI Metrics (Sessions, Purchases, Revenue, Conversion Rate)
-- Ecommerce Conversion Funnel
-- Device Analysis
-- Landing Page Analysis
-- Operating System Analysis
-- Country Analysis
-- Interactive Filters
-
-## Tableau Public Dashboard
+## Interactive Dashboard
 https://public.tableau.com/views/1_17799143240550/EcommerceAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Files
